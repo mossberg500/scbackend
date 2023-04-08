@@ -3,6 +3,8 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+/src/main/resources/application.properties
+
 
 
 ### STS ###
@@ -21,7 +23,8 @@ target/
 *.ipr
 *.log
 pom.xml
-
+mvnw
+mvnw.cmd
 
 ### NetBeans ###
 /nbproject/private/
