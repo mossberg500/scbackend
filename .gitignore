@@ -4,6 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 /src/main/resources/application.properties
+/src/test/java/lv/scopebnd/scbackend/ScbackendApplicationTests.java
 
 
 
@@ -38,3 +39,4 @@ build/
 
 ### VS Code ###
 .vscode/
+
